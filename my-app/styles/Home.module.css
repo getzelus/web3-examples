@@ -43,6 +43,16 @@
   cursor: pointer;
   margin-bottom: 2%;
 }
+
+.menu{
+  margin-left: 10vw;
+  margin-top: 4vh;
+}
+
+.menu a {
+  margin-right: 20px;
+}
+
 @media (max-width: 1000px) {
   .main {
     width: 100%;
