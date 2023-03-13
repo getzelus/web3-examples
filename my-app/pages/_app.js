@@ -6,6 +6,7 @@ function MyApp({ Component, pageProps }) {
   return (<div>
 
     <div className={styles.menu}>
+    <Link href='Whitelist'>Whitelist</Link>
       <Link href='NFT'>NFT</Link>
       <Link href='ICO'>ICO</Link>
     </div>
