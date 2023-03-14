@@ -9,6 +9,7 @@ function MyApp({ Component, pageProps }) {
     <Link href='Whitelist'>Whitelist</Link>
       <Link href='NFT'>NFT</Link>
       <Link href='ICO'>ICO</Link>
+      <Link href='DAO'>DAO</Link>
     </div>
   <Component {...pageProps} />
   </div>);
